@@ -5,7 +5,7 @@ import sys
 
 if __name__ == "__main__":
     try:
-        logging.info("Main app.py started")
+        logging.info("Starting the main app.py function") 
 
         # Initialize the data ingestion
         data_ingestion = DataIngestion()
