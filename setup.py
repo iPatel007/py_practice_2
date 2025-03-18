@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name='mlproject-2',
+    name='mlproject_2',
     version='0.1.0',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt'),
