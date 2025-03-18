@@ -28,7 +28,7 @@ The `deliveries.csv` dataset contains information about deliveries. The dataset 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd mlproject-2
+    cd mlproject_2
     ```
 3. Install the required dependencies:
     ```bash
