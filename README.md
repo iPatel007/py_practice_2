@@ -24,11 +24,11 @@ The `deliveries.csv` dataset contains information about deliveries. The dataset 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/python-practice-projects.git
+    git clone https://github.com/iPatel007/py_practice_2.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd python-practice-projects
+    cd mlproject-2
     ```
 3. Install the required dependencies:
     ```bash
